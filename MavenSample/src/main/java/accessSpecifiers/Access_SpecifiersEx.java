@@ -1,7 +1,7 @@
 package accessSpecifiers;
 
 public class Access_SpecifiersEx {
-	public void display1()
+public void display1()
 	{
 		System.out.println("Public- Access specifier");
 	}
