@@ -1,6 +1,6 @@
 package inheritance;
 
-public class Sub extends SingleP_Ex {
+public class Sub extends SingleP_Ex {//child of SingleP_Ex
 	public void numbersub()
 	{
 		int x=50;
