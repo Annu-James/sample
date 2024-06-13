@@ -11,8 +11,8 @@ public class Details2 {
 	}
 	public void show()
 	{
-		System.out.println(rank);
 		System.out.println(a.name+" "+a.mark);
+		System.out.println(rank);
 		
 	}
 
