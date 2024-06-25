@@ -16,7 +16,6 @@ public class ArrayList_Iterator {
 		
 		Iterator<String>a=obj.iterator();
 		while(a.hasNext())
-		
 		{
 			System.out.println(a.next());
 		}
